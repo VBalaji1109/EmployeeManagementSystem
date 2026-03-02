@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: ems-backend-container
-          image: balajitj/backendapp:latest # Your actual Docker Hub image
+          image: balaji1109/backendapp:latest # Your actual Docker Hub image
           ports:
             - containerPort: 8080
 ---
